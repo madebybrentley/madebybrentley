@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base typography */
+body { @apply bg-cream text-[#333]; }
+a { @apply transition; }

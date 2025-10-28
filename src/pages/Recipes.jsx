@@ -11,7 +11,7 @@ export default function RecipesPage() {
     <main className="max-w-6xl mx-auto px-6 py-12">
       <section className="text-center py-12">
         <p className="text-gray-600 max-w-xl mx-auto text-lg" style={{ fontFamily: 'EB Garamond' }}>
-          Simple, real-life cooking from my kitchen to yours — featuring sweet, savory, and side dishes for every mood.
+          From my kitchen to yours — featuring sweet, savory, and side dishes for every table.
         </p>
       </section>
 

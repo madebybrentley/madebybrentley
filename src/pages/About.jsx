@@ -9,7 +9,7 @@ export default function AboutPage() {
 
         <div className="max-w-3xl mx-auto text-left md:flex md:items-center md:space-x-8">
           <img
-            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80"
+            src=3B69E27C-A6D5-4985-AF99-AC0F738A881B.jpeg
             alt="Brentley cooking in the kitchen"
             className="rounded-2xl shadow-md mb-8 md:mb-0 md:w-1/2 object-cover"
           />

@@ -8,7 +8,7 @@ export default function AboutPage() {
         </p>
 
         <div className="max-w-3xl mx-auto text-left md:flex md:items-center md:space-x-8">
-<img src="/brentley.jpg" alt="Brentley cooking in the kitchen" />
+<img src="public/brentley.jpg" alt="Brentley cooking in the kitchen" />
             className="rounded-2xl shadow-md mb-8 md:mb-0 md:w-1/2 object-cover"
           />
 

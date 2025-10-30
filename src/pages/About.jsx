@@ -23,7 +23,7 @@ export default function AboutPage() {
         </p>
 
         <p className="text-lg leading-relaxed text-gray-700 max-w-3xl mx-auto mt-10 text-left" style={{ fontFamily: 'EB Garamond' }}>
-          Now I am 23 and working as a chef on a hunting ranch. This job allows me to do all of my favorite things like being in the kitchen all day making cozy meals and sweet treats, getting outside, and sharing it all with my friends on TikTok and Instagram (thank you, by the way!). I truly believe that God's purpose for me is to serve and create in any way that I can. Because food is my passion, my career feels not only undeniable but also never like a job — it feels like so much more than that. I hope that sharing my recipes brings you as much joy and appreciation for food as it does for me — and if not, at least it will taste good!
+          Now I am 23 and working as a chef on a hunting ranch. This job allows me to do all of my favorite things like being in the kitchen all day making cozy meals and sweet treats, getting outside, and sharing it all with my friends on TikTok and Instagram (thank you, by the way)! I truly believe that God's purpose for me is to serve and create in any way that I can. Because food is my passion, my career feels not only undeniable but also never like a job — it feels like so much more than that. I hope that sharing my recipes brings you as much joy and appreciation for food as it does for me — and if not, at least it will taste good!
         </p>
       </section>
     </main>
